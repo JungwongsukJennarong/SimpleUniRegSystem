@@ -1,2 +1,2 @@
 # SimpleUniRegSystem
-Class work created in 2021
+Class work for submission created in 2021
